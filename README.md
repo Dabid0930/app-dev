@@ -2,8 +2,8 @@
 My first repository
 
 **Information about my favorite Movie**
-**Genre: Comedy**
 
+**Genre: Comedy**
 **Cast:**
 - Michael Cera
 - Jonah Hill
